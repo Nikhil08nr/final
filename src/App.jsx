@@ -9,9 +9,9 @@ function App() {
 
   function handleSelect(selectedButton) {
     setSelectedTopic(selectedButton);
-    console.log(selectedTopic);
+    console.log(selectedButton);
   }
-
+  // console.log(selectedTopic);
   // let tabContent = <p>Select the option</p>;
   // if (selectedTopic) {
   //   tabContent = (
