@@ -9,6 +9,7 @@ export default function Header() {
   const description = reactDescription[getRandomInt(2)];
   return (
     <header>
+      <h5>Nikhil Reddy</h5>
       <img src={reactImg} alt="Stylized atom" />
       <h1>React Essentials</h1>
       <p>

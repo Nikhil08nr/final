@@ -30,6 +30,10 @@ header img {
   object-fit: cover;
 }
 
+header h5 {
+  color: rgb(129, 108, 150);
+}
+
 header h1 {
   margin: 0;
   font-family: "Roboto Condensed", sans-serif;
